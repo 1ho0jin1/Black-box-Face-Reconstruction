@@ -1,0 +1,27 @@
+lfw:
+    image_dir: '/home/yoon/datasets/face/lfw'
+    targets_txt: '/data/New_Projects/icip2023/dataset/lfw_targets.txt'
+
+lfw-200:
+    image_dir: '/home/yoon/datasets/face/lfw'
+    targets_txt: '/data/New_Projects/icip2023/dataset/lfw-200_targets.txt'
+
+cfp-fp-F:
+    image_dir: '/home/yoon/datasets/face/cfp/Data'
+    targets_txt: '/data/New_Projects/icip2023/dataset/cfp-fp_targets_F.txt'
+    protocol_dir: '/home/yoon/datasets/face/cfp/Protocol'
+
+cfp-fp-P:
+    image_dir: '/home/yoon/datasets/face/cfp/Data'
+    targets_txt: '/data/New_Projects/icip2023/dataset/cfp-fp_targets_P.txt'
+    protocol_dir: '/home/yoon/datasets/face/cfp/Protocol'
+
+cfp-fp-200-F:
+    image_dir: '/home/yoon/datasets/face/cfp/Data'
+    targets_txt: '/data/New_Projects/icip2023/dataset/cfp-fp-200_targets_F.txt'
+    protocol_dir: '/home/yoon/datasets/face/cfp/Protocol'
+
+cfp-fp-200-P:
+    image_dir: '/home/yoon/datasets/face/cfp/Data'
+    targets_txt: '/data/New_Projects/icip2023/dataset/cfp-fp-200_targets_P.txt'
+    protocol_dir: '/home/yoon/datasets/face/cfp/Protocol'
