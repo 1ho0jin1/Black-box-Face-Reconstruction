@@ -10,7 +10,7 @@ TOWARDS QUERY EFFICIENT AND GENERALIZABLE BLACK-BOX FACE RECONSTRUCTION ATTACK
 ## Setup
 Download pretrained encoders and StyleGAN2 weights:
 - <a href="https://drive.google.com/file/d/1eVq2hhjHiO494qkDcGhG5EdxYOilu--7/view?usp=share_link">VGGNet-19</a>
-- <a href="https://drive.google.com/file/d/1eVq2hhjHiO494qkDcGhG5EdxYOilu--7/view?usp=share_link">ResNet-50</a>
+- <a href="https://drive.google.com/file/d/1pDOX9_bQAgSkJp8W-EVq4iKBg07gTQLE/view?usp=drivesdk">ResNet-50</a>
 - <a href="https://drive.google.com/file/d/1BDDpjhUYCwQde6KzR2ztGkMqgE8Nq9E2/view?usp=share_link">SwinTransformer-S</a>
 - <a href="https://drive.google.com/file/d/1W4ZmSxm3gROz205JoikqVeHRroM2_fXY/view?usp=share_link">StyleGAN2-FFHQ-256x256</a>
 
