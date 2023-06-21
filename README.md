@@ -1,5 +1,5 @@
 # Black-box-Face-Reconstruction
-TOWARDS QUERY EFFICIENT AND GENERALIZABLE BLACK-BOX FACE RECONSTRUCTION ATTACK
+TOWARDS QUERY EFFICIENT AND GENERALIZABLE BLACK-BOX FACE RECONSTRUCTION ATTACK  
 To be presented in 2023 International Conference on Image Processing (ICIP)
 
 ## Requirements (not strict)
