@@ -2,11 +2,12 @@
 TOWARDS QUERY EFFICIENT AND GENERALIZABLE BLACK-BOX FACE RECONSTRUCTION ATTACK  
 To be presented in 2023 International Conference on Image Processing (ICIP)
 
-## Requirements (not strict)
-- PyTorch 1.9.1
-- Torchvision 0.10.1
-- CUDA 10.1/10.2
-- NOTE: Any version is ok if you can use the StyleGAN2 from the <a href="https://github.com/rosinality/stylegan2-pytorch"> stylegan2-pytorch</a> repository.
+## Requirements
+- torch==1.9.1
+- torchvision==0.10.1
+- setuptools==59.5.0
+- six
+- ninja
 
 ## Setup
 Download pretrained encoders and StyleGAN2 weights:
